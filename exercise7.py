@@ -1,3 +1,5 @@
+from multiprocessing import Pool
+
 def word_count(file_path):
 
     try:
